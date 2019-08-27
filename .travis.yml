@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 1.29.9
+script: bundle exec jgd -b gh_pages -r master -u https://${GH_TOKEN}@github.com/sinazarriess/sinazarriess.github.io.git
+branches:
+  only:
+  - master
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: 9741c0f7c2865bec503cb6d5b18bbbcec8bc6b90
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+sudo: false
+cache: bundler
