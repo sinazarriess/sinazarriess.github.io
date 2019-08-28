@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-### General thoughts
+### General
 
-Language is a great and natural way for humans to communicate. It allows us to quickly say what we want when talking to someone, to formulate complex ideas in long texts, to speak about real and non-real worlds, and to combine what we say with other means of non-verbal communication. While grammatical rules of particular languages constrain to some extent how words and sentences have to be formed, they also leave us with a huge space of possibilities to verbalize our thoughts: how exactly am I going to formulate what I want to say? What are the words that I am going to use? How much am I going to say? These decisions are typically not governed by the grammar of a language, but speakers do flexibly adjust them to particular situations, contexts, audiences. The general goal of my work is to understand these flexible, communicative aspects of language use, by building machines that model text and dialogue.
+Language is a great and natural way for humans to communicate. It allows us to quickly say what we want when talking to someone, to formulate complex ideas in long texts, to speak about real and non-real worlds, and to combine what we say with other means of non-verbal communication. When verbalizing our thoughts, we usually have a huge space of possibilities: what do we say and how do we say it? In this process, many of the decisions involved are not governed by the grammar of a language, but speakers do flexibly adjust them to particular situations, contexts, audiences. The general goal of my work is to understand these flexible, communicative aspects of language use, by building machines that model text and dialogue.
 
 I am particularly interested in:
 
