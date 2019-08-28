@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.4.2
-script: bundle exec jgd -b master -r gh-pages -u https://9741c0f7c2865bec503cb6d5b18bbbcec8bc6b90@github.com/sinazarriess/sinazarriess.github.io.git
+script: bundle exec jgd -b master -r gh-pages -u https://git@github.com/sinazarriess/sinazarriess.github.io.git
 branches:
   only:
   - master
