@@ -6,7 +6,7 @@ permalink: /research/
 
 ### General
 
-Natural language is an extremely flexible way of communication. It allows us to quickly say what we want when talking to someone, to formulate complex ideas in long texts, to speak about real and non-real worlds, and to use words in combination with other means of non-verbal communication. When using language to verbalize our thoughts, we usually have a huge space of possibilities: what exactly do we say and how exactly do we say it? In this process, many of the decisions involved are not governed by the grammar of a language, but speakers do flexibly adjust them to particular situations, contexts, audiences. The general goal of my work is to understand these flexible, communicative aspects of language use, by building machines that model text and dialogue.
+Natural language is an extremely flexible way of communication. It allows us to quickly say what we want when talking to someone, to formulate complex ideas in long texts, to speak about real and non-real worlds, and to use words in combination with other means of non-verbal communication. When using language to verbalize our thoughts, we usually have a huge space of possibilities: what exactly do we say and how exactly do we say it? In this process, many of the decisions involved are not governed by the grammar of a language, but speakers tailor them to particular situations, goals, audiences. The general aim of my research is to understand these flexible, communicative aspects of language use, by building machines that model text and dialogue.
 
 I am particularly interested in:
 
