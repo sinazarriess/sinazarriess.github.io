@@ -16,7 +16,7 @@ Germany
 
 __Office__: 3233  
 __Phone__: +49 3641 9 46470    
-__Email__: sina *dot* zarriess *at* uni-jena *dot*  
+__Email__: sina *dot* zarriess *at* uni-jena *dot* de
 
 <br/>
 <br/>
