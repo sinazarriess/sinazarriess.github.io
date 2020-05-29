@@ -6,6 +6,23 @@ permalink: /publications/
 
 
 {:.year}
+### 2020
+
+{:.paper}
+<span>Object Naming in Language and Vision: A Survey and a New Dataset</span>{:.papertitle}  
+<span>C. Silberer, S. Zarrieß, and G. Boleda</span>{:.authors}  
+<span>5792--5801, Proceedings of The 12th Language Resources and Evaluation Conference, Marseille, France, 
+{:.paper}
+<span>Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms</span>{:.papertitle}  
+<span>S. Schuez and S. Zarrieß</span>{:.authors}  
+<span>To appear in Proceedings of ACL 2020, 2020</span>{:.journal}  
+
+{:.paper}
+<span>Hesitation Processing Analysis Using Continuous Mouse-Tracking and Gamification</span>{:.papertitle}  
+<span>S. Betz, É. Székely, S. Zarrieß, M. Schröer, L. Schade, and P. Wagner</span>{:.authors}  
+<span>85--92, Elektronische Sprachsignalverarbeitung 2020. Tagungsband der 31. Konferenz., 2020</span>{:.journal}  
+
+{:.year}
 ### 2019
 
 {:.paper}
