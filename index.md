@@ -29,10 +29,8 @@ I am a tenure-track professor for language technology, machine learning and digi
 
 * *September 2020* I am teaching the intro of the Machine Learning Summer School at the MSCJ Jena, [material](https://github.com/sinazarriess/mlintro_mscj2020)
 * *July 2020* Have a look at Simeon's ACL paper on colour terms: [paper](https://www.aclweb.org/anthology/2020.acl-main.584/), [code](https://github.com/clause-jena/colour-term-grounding)
-* *15/01/2020* Very interesting upcoming symposium (that I am organizing with people at UPF, Barcelona):
-  * [GeCKO - Integrating Generic and Contextual Knowledge](Integrating Generic and Contextual Knowledge), will take place in Barcelona, in May
-* *01/12/2019* New project: RECOLAGE - Real-time Vision-grounded Collaborative Language Generation
-  * with [David Schlangen, Uni Potsdam](http://www.ling.uni-potsdam.de/~das/)
+* *15/01/2020* Very interesting upcoming symposium (that I am organizing with people at UPF, Barcelona), [GeCKO](Integrating Generic and Contextual Knowledge), will take place in Barcelona, in May
+* *01/12/2019* New project: RECOLAGE - Real-time Vision-grounded Collaborative Language Generation, with [David Schlangen, Uni Potsdam](http://www.ling.uni-potsdam.de/~das/)
 * *01/11/2019* Simeon Schüz is the first PhD student who joined my group in Jena :-)
 
 
