@@ -27,4 +27,4 @@ I am a professor for Computational Linguistics, at the University of Bielefeld. 
 Please visit the website of the [Computational Linguistics Bielefeld](https://clause-bielefeld.github.io/) group for further information.
 <br/>
 
-[Google scholar profile](https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao)
+Profiles: [Google Scholar](https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao), [ACL Anthology](https://www.aclweb.org/anthology/people/s/sina-zarriess/)
