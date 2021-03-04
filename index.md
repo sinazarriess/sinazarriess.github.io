@@ -6,10 +6,10 @@ layout: home
 ---
 
 <img style="float: right;" src="/assets/profilesmall.jpg">
-Computational Linguistics
+Computational Linguistics  
 [Faculty for Linguistics and Literature Studies](https://www.uni-bielefeld.de/lili/portal/)  
 [University of Bielefeld](http://www.uni-bielefeld.de/)  
-Universitätstr. 25
+Universitätstr. 25  
 33615 Bielefeld  
 Germany  
 
