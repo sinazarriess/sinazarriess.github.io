@@ -6,36 +6,25 @@ layout: home
 ---
 
 <img style="float: right;" src="/assets/profilesmall.jpg">
-Lehrstuhl für Digital Humanities  
- mit Schwerpunkt Maschinelles Lernen und Sprachtechnologie  
-[Fakultät für Mathematik und Informatik](https://www.fmi.uni-jena.de/)  
-[Friedrich Schiller Universität Jena](http://www.uni-jena.de/)  
-Ernst-Abbe-Platz 2  
-07743 Jena  
+Computational Linguistics
+[Faculty for Linguistics and Literature Studies](https://www.uni-bielefeld.de/lili/portal/)  
+[University of Bielefeld](http://www.uni-bielefeld.de/)  
+Universitätstr. 25
+33615 Bielefeld  
 Germany  
 
-__Office__: 3233  
-__Phone__: +49 3641 9 46470    
-__Email__: sina *dot* zarriess *at* uni-jena *dot* de
+__Office__: @Home  
+__Phone__: @Home    
+__Email__: sina *dot* zarriess *at* uni-bielefeld *dot* de
+
+__Secretary__: [Juliana Heihoff](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=45140985)
 
 <br/>
 <br/>
 
-I am a tenure-track professor for language technology, machine learning and digital humanities. In more simple terms: I am a computational linguist. The general goal of my research is to build computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language & vision.
+I am a professor for Computational Linguistics, at the University of Bielefeld. The general goal of my research is to build computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language & vision.
 
+Please visit the website of the [Computational Linguistics Bielefeld](https://clause-bielefeld.github.io/) group for further information.
 <br/>
 
-## News
-
-* *September 2020* I am teaching the intro of the Machine Learning Summer School at the MSCJ Jena, [material](https://github.com/sinazarriess/mlintro_mscj2020)
-* *July 2020* Have a look at Simeon's ACL paper on colour terms: [paper](https://www.aclweb.org/anthology/2020.acl-main.584/), [code](https://github.com/clause-jena/colour-term-grounding)
-* *15/01/2020* Very interesting upcoming symposium (that I am organizing with people at UPF, Barcelona), [GeCKO](Integrating Generic and Contextual Knowledge), will take place in Barcelona, in May
-* *01/12/2019* New project: RECOLAGE - Real-time Vision-grounded Collaborative Language Generation, with [David Schlangen, Uni Potsdam](http://www.ling.uni-potsdam.de/~das/)
-* *01/11/2019* Simeon Schüz is the first PhD student who joined my group in Jena :-)
-
-
-<br/>
-
-## Short CV
-
-Before becoming a real (junior) professor in 2019, I worked as a temporary professor for theoretical and applied computational linguistics in Bielefeld. I did a PostDoc at [CITEC,  Bielefeld](https://www.cit-ec.de/de), a PhD at [IMS, Stuttgart](https://www.ims.uni-stuttgart.de/) and got my Magister (Master) degree in Computational Linguistics from the [Linguistics Department, Potsdam](https://www.uni-potsdam.de/ling/index.html).
+[Google scholar profile](https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao)
