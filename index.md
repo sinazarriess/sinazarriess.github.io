@@ -29,4 +29,4 @@ Please visit the website of the [Computational Linguistics Bielefeld](https://cl
 
 Profiles: [Google Scholar](https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao), [ACL Anthology](https://www.aclweb.org/anthology/people/s/sina-zarriess/), [ORCID](https://orcid.org/0000-0002-1384-1218)
 
-Publications: [PUB](https://pub.uni-bielefeld.de/person/51642361)
+Publications: [PUB Uni Bielefeld](https://pub.uni-bielefeld.de/person/51642361)
